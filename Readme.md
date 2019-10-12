@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Евгений Лебедев](https://up.htmlacademy.ru/htmlcss/26/user/1006771).
-* Наставник: `Неизвестно`.
+* Наставник: [Вадим Новаш] (https://htmlacademy.ru/profile/stakeout).
 
 ---
 
